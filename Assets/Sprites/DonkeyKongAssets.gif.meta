@@ -1,0 +1,2633 @@
+fileFormatVersion: 2
+guid: 9c45598f40180774cadf67af0874a1e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -370223136459130346
+    second: DonkeyKongAssets_0
+  - first:
+      213: -5446628229280230535
+    second: DonkeyKongAssets_1
+  - first:
+      213: 3359635135737245026
+    second: DonkeyKongAssets_2
+  - first:
+      213: 4295007409070182825
+    second: DonkeyKongAssets_3
+  - first:
+      213: -2682379158262731494
+    second: DonkeyKongAssets_4
+  - first:
+      213: -9101085899654330483
+    second: DonkeyKongAssets_5
+  - first:
+      213: -8170145410678870149
+    second: DonkeyKongAssets_6
+  - first:
+      213: -8378939491260560747
+    second: DonkeyKongAssets_7
+  - first:
+      213: 5301517707228916383
+    second: DonkeyKongAssets_8
+  - first:
+      213: 6945402759208849174
+    second: DonkeyKongAssets_9
+  - first:
+      213: -3206777077507086407
+    second: DonkeyKongAssets_10
+  - first:
+      213: 7219999847208253198
+    second: DonkeyKongAssets_11
+  - first:
+      213: 1510042904610873391
+    second: DonkeyKongAssets_12
+  - first:
+      213: -7274238886073903824
+    second: DonkeyKongAssets_13
+  - first:
+      213: 5930441669381585518
+    second: DonkeyKongAssets_14
+  - first:
+      213: 8500280191294084388
+    second: DonkeyKongAssets_15
+  - first:
+      213: 7939806684977185055
+    second: DonkeyKongAssets_16
+  - first:
+      213: 4477649529994332723
+    second: DonkeyKongAssets_17
+  - first:
+      213: -5403234162732716289
+    second: DonkeyKongAssets_18
+  - first:
+      213: 6472438994519176663
+    second: DonkeyKongAssets_19
+  - first:
+      213: -1290663212026791644
+    second: DonkeyKongAssets_20
+  - first:
+      213: 2601118367770631034
+    second: DonkeyKongAssets_21
+  - first:
+      213: -1210091075322232071
+    second: DonkeyKongAssets_22
+  - first:
+      213: -439798442448976717
+    second: DonkeyKongAssets_23
+  - first:
+      213: -4455706540847173242
+    second: DonkeyKongAssets_24
+  - first:
+      213: -9008238364092253127
+    second: DonkeyKongAssets_25
+  - first:
+      213: 8677692898580649023
+    second: DonkeyKongAssets_26
+  - first:
+      213: 4859277327475043033
+    second: DonkeyKongAssets_27
+  - first:
+      213: 4250203686370994591
+    second: DonkeyKongAssets_28
+  - first:
+      213: 9087832606875582258
+    second: DonkeyKongAssets_29
+  - first:
+      213: 8006222145481009042
+    second: DonkeyKongAssets_30
+  - first:
+      213: 7709988186206024777
+    second: DonkeyKongAssets_31
+  - first:
+      213: -460715595972800529
+    second: DonkeyKongAssets_32
+  - first:
+      213: -4467727245137151154
+    second: DonkeyKongAssets_33
+  - first:
+      213: -1655319204414238398
+    second: DonkeyKongAssets_34
+  - first:
+      213: 1879029194824236909
+    second: DonkeyKongAssets_35
+  - first:
+      213: -1898869360195656462
+    second: DonkeyKongAssets_36
+  - first:
+      213: -8366158226839604675
+    second: DonkeyKongAssets_37
+  - first:
+      213: 6254633681456751448
+    second: DonkeyKongAssets_38
+  - first:
+      213: -6834296118043399448
+    second: DonkeyKongAssets_39
+  - first:
+      213: -4373078018333731609
+    second: DonkeyKongAssets_40
+  - first:
+      213: -5708327599454894953
+    second: DonkeyKongAssets_41
+  - first:
+      213: -898946278044588320
+    second: DonkeyKongAssets_42
+  - first:
+      213: 2489271590182334358
+    second: DonkeyKongAssets_43
+  - first:
+      213: -2913176566369011403
+    second: DonkeyKongAssets_44
+  - first:
+      213: 2967036008323310761
+    second: DonkeyKongAssets_45
+  - first:
+      213: 474441203793828974
+    second: DonkeyKongAssets_46
+  - first:
+      213: -6289899871588698274
+    second: DonkeyKongAssets_47
+  - first:
+      213: -3645715677229376540
+    second: DonkeyKongAssets_48
+  - first:
+      213: -5602671324537729061
+    second: DonkeyKongAssets_49
+  - first:
+      213: 5715770766905754648
+    second: DonkeyKongAssets_50
+  - first:
+      213: 5640489567361430789
+    second: DonkeyKongAssets_51
+  - first:
+      213: 6426448835738275492
+    second: DonkeyKongAssets_52
+  - first:
+      213: -979761615937718091
+    second: DonkeyKongAssets_53
+  - first:
+      213: -1233651513030277822
+    second: DonkeyKongAssets_54
+  - first:
+      213: -7421326548560951663
+    second: DonkeyKongAssets_55
+  - first:
+      213: 3858987494027077168
+    second: DonkeyKongAssets_56
+  - first:
+      213: 8029248178431891269
+    second: DonkeyKongAssets_57
+  - first:
+      213: -380764296217735101
+    second: DonkeyKongAssets_58
+  - first:
+      213: -2214047364063195766
+    second: DonkeyKongAssets_59
+  - first:
+      213: 6533720491665866751
+    second: DonkeyKongAssets_60
+  - first:
+      213: -6965177416470867584
+    second: DonkeyKongAssets_61
+  - first:
+      213: 3568713879704069480
+    second: DonkeyKongAssets_62
+  - first:
+      213: 9133808508684580103
+    second: DonkeyKongAssets_63
+  - first:
+      213: -6362835224219359800
+    second: DonkeyKongAssets_64
+  - first:
+      213: -3428334710673119804
+    second: DonkeyKongAssets_65
+  - first:
+      213: 6711638810418052318
+    second: DonkeyKongAssets_66
+  - first:
+      213: -7351468700080754422
+    second: DonkeyKongAssets_67
+  - first:
+      213: 565778143929466527
+    second: DonkeyKongAssets_68
+  - first:
+      213: -1542834693600574205
+    second: DonkeyKongAssets_69
+  - first:
+      213: -1172195551966460992
+    second: DonkeyKongAssets_70
+  - first:
+      213: 4936213895749045053
+    second: DonkeyKongAssets_71
+  - first:
+      213: 4729012966923408128
+    second: DonkeyKongAssets_72
+  - first:
+      213: 5072584332587983058
+    second: DonkeyKongAssets_73
+  - first:
+      213: 8531857464528013956
+    second: DonkeyKongAssets_74
+  - first:
+      213: -4939037560618579375
+    second: DonkeyKongAssets_75
+  - first:
+      213: -8418593463371562672
+    second: DonkeyKongAssets_76
+  - first:
+      213: 4361138943010483095
+    second: DonkeyKongAssets_77
+  - first:
+      213: -5961022739989809715
+    second: DonkeyKongAssets_78
+  - first:
+      213: 3826401341607818387
+    second: DonkeyKongAssets_79
+  - first:
+      213: -1979203860519108060
+    second: DonkeyKongAssets_80
+  - first:
+      213: -8709313272172635518
+    second: DonkeyKongAssets_81
+  - first:
+      213: -4245308581106964577
+    second: DonkeyKongAssets_82
+  - first:
+      213: -3122321042501764302
+    second: DonkeyKongAssets_83
+  - first:
+      213: 4474179600842443581
+    second: DonkeyKongAssets_84
+  - first:
+      213: -6273453501240902200
+    second: DonkeyKongAssets_85
+  - first:
+      213: 3867679077042810032
+    second: DonkeyKongAssets_86
+  - first:
+      213: 7331317529214239152
+    second: DonkeyKongAssets_87
+  - first:
+      213: 2739508851006270545
+    second: DonkeyKongAssets_88
+  - first:
+      213: -4481290060986382216
+    second: DonkeyKongAssets_89
+  - first:
+      213: 3545486821518253025
+    second: DonkeyKongAssets_90
+  - first:
+      213: 3005788956608167491
+    second: DonkeyKongAssets_91
+  - first:
+      213: -2468359741657427993
+    second: DonkeyKongAssets_92
+  - first:
+      213: 623656709231597513
+    second: DonkeyKongAssets_93
+  - first:
+      213: 4992762165749749573
+    second: DonkeyKongAssets_94
+  - first:
+      213: -3489921958557649673
+    second: DonkeyKongAssets_95
+  - first:
+      213: 759154633373954665
+    second: DonkeyKongAssets_96
+  - first:
+      213: 6629316577941033284
+    second: DonkeyKongAssets_97
+  - first:
+      213: -2607871203173655627
+    second: DonkeyKongAssets_98
+  - first:
+      213: -5675081160105171763
+    second: DonkeyKongAssets_99
+  - first:
+      213: 6061758783411293416
+    second: DonkeyKongAssets_100
+  - first:
+      213: 557219416659339261
+    second: DonkeyKongAssets_101
+  - first:
+      213: -4229746770476195432
+    second: DonkeyKongAssets_102
+  - first:
+      213: -3171039918272038779
+    second: DonkeyKongAssets_103
+  - first:
+      213: 3741591270620747565
+    second: DonkeyKongAssets_104
+  - first:
+      213: 55933502467860186
+    second: DonkeyKongAssets_105
+  - first:
+      213: -395425724076639441
+    second: DonkeyKongAssets_106
+  - first:
+      213: 1301732520810780265
+    second: DonkeyKongAssets_107
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DonkeyKongAssets_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 231
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61af8b7d404bcdaf0800000000000000
+      internalID: -370223136459130346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 230
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9731322ab70b964b0800000000000000
+      internalID: -5446628229280230535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 231
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d2a881b52df9e20800000000000000
+      internalID: 3359635135737245026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 246
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fa2394900dd9e80800000000000000
+      internalID: -8170145410678870149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 230
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a0cec1de608bb80800000000000000
+      internalID: -8378939491260560747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_8
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 238
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9aa2dd1446c29940800000000000000
+      internalID: 5301517707228916383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_9
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 238
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f49acd207036060800000000000000
+      internalID: 6945402759208849174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_10
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 228
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7235dfc3d3f73d0800000000000000
+      internalID: -3206777077507086407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_11
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 237
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07f83b9b97923460800000000000000
+      internalID: 7219999847208253198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_12
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 237
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f202eec6500c4f410800000000000000
+      internalID: 1510042904610873391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_13
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 237
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0355b301646bc0b90800000000000000
+      internalID: -7274238886073903824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_14
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 237
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6af9a807492d4250800000000000000
+      internalID: 5930441669381585518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_15
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 237
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4259f5d2ccf07f570800000000000000
+      internalID: 8500280191294084388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_16
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 219
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f114653fc1cdf2e60800000000000000
+      internalID: 7939806684977185055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_17
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 219
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ac100268ec32e30800000000000000
+      internalID: 4477649529994332723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_18
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 219
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeaf04182bd305b0800000000000000
+      internalID: -5403234162732716289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_19
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 219
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5b3ba19f8b2d950800000000000000
+      internalID: 6472438994519176663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_20
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 219
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4297a7a95a4a61ee0800000000000000
+      internalID: -1290663212026791644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_21
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 219
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b56b9cf57091420800000000000000
+      internalID: 2601118367770631034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_22
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 219
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f24c8d0494e43fe0800000000000000
+      internalID: -1210091075322232071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_23
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 219
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b40f0195a585e9f0800000000000000
+      internalID: -439798442448976717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 194
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6817b6922862a22c0800000000000000
+      internalID: -4455706540847173242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_25
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 225
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c3c308fee4cf280800000000000000
+      internalID: -9008238364092253127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_26
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 225
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3454d107bb5d6870800000000000000
+      internalID: 8677692898580649023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_27
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 225
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da6249dbfe9f6340800000000000000
+      internalID: 4859277327475043033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_28
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 225
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99e235fbb1cbfa30800000000000000
+      internalID: 4250203686370994591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_29
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 225
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ff7074b977e1e70800000000000000
+      internalID: 9087832606875582258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 185
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297e24e5f90db1f60800000000000000
+      internalID: 8006222145481009042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_31
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 185
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944b445f7616ffa60800000000000000
+      internalID: 7709988186206024777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_32
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 183
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef0f8f3b953b99f0800000000000000
+      internalID: -460715595972800529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_33
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 183
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bf348ddb17ff1c0800000000000000
+      internalID: -4467727245137151154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_34
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 194
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241d10f24ff1709e0800000000000000
+      internalID: -1655319204414238398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_35
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 196
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f3610e817a31a10800000000000000
+      internalID: 1879029194824236909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_36
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 210
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f42aa6a06cd5a5e0800000000000000
+      internalID: -1898869360195656462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_37
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 199
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3273822b6f65eb80800000000000000
+      internalID: -8366158226839604675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_38
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 183
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8536c6fd13cecc650800000000000000
+      internalID: 6254633681456751448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_39
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 183
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea213ae3e3b721a0800000000000000
+      internalID: -6834296118043399448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_40
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 183
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4162e36b4bf43c0800000000000000
+      internalID: -4373078018333731609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_41
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 182
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794cee4da42f7c0b0800000000000000
+      internalID: -5708327599454894953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_42
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 182
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e62ef87f1d4683f0800000000000000
+      internalID: -898946278044588320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_43
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 183
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f2a42925bab8220800000000000000
+      internalID: 2489271590182334358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_44
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 181
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5393599f8515297d0800000000000000
+      internalID: -2913176566369011403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 134
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a467ef87870d2920800000000000000
+      internalID: 2967036008323310761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_46
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 134
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c90fad2cd859600800000000000000
+      internalID: 474441203793828974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_47
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 136
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e573e216469c5b8a0800000000000000
+      internalID: -6289899871588698274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_48
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 134
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb9baa48e0d76dc0800000000000000
+      internalID: -3645715677229376540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 135
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf49a35d105f32b0800000000000000
+      internalID: -5602671324537729061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_50
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 102
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814caf2aa3f725f40800000000000000
+      internalID: 5715770766905754648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_51
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 136
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505ffdd706b074e40800000000000000
+      internalID: 5640489567361430789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_52
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 136
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae0765da255f2950800000000000000
+      internalID: 6426448835738275492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_53
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 136
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8387550003762f0800000000000000
+      internalID: -979761615937718091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_54
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 144
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245053d2c7031eee0800000000000000
+      internalID: -1233651513030277822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_55
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 144
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19649dee2d6220990800000000000000
+      internalID: -7421326548560951663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_56
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 135
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036a8261ea0ed8530800000000000000
+      internalID: 3858987494027077168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_57
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 135
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54792e07dae9d6f60800000000000000
+      internalID: 8029248178431891269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_58
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 136
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3405ac4d3e047baf0800000000000000
+      internalID: -380764296217735101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_59
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 136
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d8f1527af1641e0800000000000000
+      internalID: -2214047364063195766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_60
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 135
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff3f678b207caa50800000000000000
+      internalID: 6533720491665866751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_61
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 135
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0815ea5fa08b65f90800000000000000
+      internalID: -6965177416470867584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_62
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 89
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86564c0ad5e968130800000000000000
+      internalID: 3568713879704069480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_63
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 89
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705b596127ec1ce70800000000000000
+      internalID: 9133808508684580103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_64
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 89
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5ef08431ba2b7a0800000000000000
+      internalID: -6362835224219359800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_65
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 96
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5ef27aebb1c60d0800000000000000
+      internalID: -3428334710673119804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_66
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 96
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc71b330f7842d50800000000000000
+      internalID: 6711638810418052318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_67
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 97
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01b842ca265af990800000000000000
+      internalID: -7351468700080754422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_68
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 55
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e789a693c0ad700800000000000000
+      internalID: 565778143929466527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_69
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 55
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3050acc3500c69ae0800000000000000
+      internalID: -1542834693600574205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_70
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c30fb52b568bbfe0800000000000000
+      internalID: -1172195551966460992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_71
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 54
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b087f8264f08440800000000000000
+      internalID: 4936213895749045053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_72
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 54
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0039fafec34d0a140800000000000000
+      internalID: 4729012966923408128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_73
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 54
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d06e152390756640800000000000000
+      internalID: 5072584332587983058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_74
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 54
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a0577092f376670800000000000000
+      internalID: 8531857464528013956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_75
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 54
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a840bb183057bb0800000000000000
+      internalID: -4939037560618579375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_76
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 54
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051005349d52b2b80800000000000000
+      internalID: -8418593463371562672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_77
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 55
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b234a23c0e58c30800000000000000
+      internalID: 4361138943010483095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_78
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 52
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5b1ec9661364da0800000000000000
+      internalID: -5961022739989809715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_79
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 52
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394bc9e3fbb1a1530800000000000000
+      internalID: 3826401341607818387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_80
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 53
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4224dab33947884e0800000000000000
+      internalID: -1979203860519108060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_81
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 51
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a1e8e09bd422780800000000000000
+      internalID: -8709313272172635518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_82
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 51
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97a33d8652a515c0800000000000000
+      internalID: -4245308581106964577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_83
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 51
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b74fafd894ba4d0800000000000000
+      internalID: -3122321042501764302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_84
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 51
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b438944aa771e30800000000000000
+      internalID: 4474179600842443581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_85
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 51
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdfa9f574730f8a0800000000000000
+      internalID: -6273453501240902200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_86
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 51
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bce854f0a1cca530800000000000000
+      internalID: 3867679077042810032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_87
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 52
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1c86823721eb560800000000000000
+      internalID: 7331317529214239152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_88
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 47
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c644319c0b40620800000000000000
+      internalID: 2739508851006270545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_89
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 47
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8780b63be624fc1c0800000000000000
+      internalID: -4481290060986382216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_90
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 47
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb9c68ba79143130800000000000000
+      internalID: 3545486821518253025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_91
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 47
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34efb647125b6b920800000000000000
+      internalID: 3005788956608167491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_92
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 14
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef42a494ef9ebdd0800000000000000
+      internalID: -2468359741657427993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_93
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 14
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7d987097ca7a800800000000000000
+      internalID: 623656709231597513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_94
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 15
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5471689acbad94540800000000000000
+      internalID: 4992762165749749573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_95
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 31
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4f556187e419fc0800000000000000
+      internalID: -3489921958557649673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_96
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 31
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962b8dbed1f098a00800000000000000
+      internalID: 759154633373954665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_97
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 31
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44198c3dd40100c50800000000000000
+      internalID: 6629316577941033284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_98
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 31
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb1dd235fafecbd0800000000000000
+      internalID: -2607871203173655627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_99
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 16
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc46b64b0cf0e31b0800000000000000
+      internalID: -5675081160105171763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_100
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 16
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec85573f71bf1450800000000000000
+      internalID: 6061758783411293416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_101
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 16
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df72eef6b14abb700800000000000000
+      internalID: 557219416659339261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_102
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 17
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89129efe8bbec45c0800000000000000
+      internalID: -4229746770476195432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_103
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 17
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588bfc6cef33ef3d0800000000000000
+      internalID: -3171039918272038779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_104
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 19
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d275d04df6dcce330800000000000000
+      internalID: 3741591270620747565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_105
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 14
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6e3a16937b6c000800000000000000
+      internalID: 55933502467860186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_106
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 15
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b3c55266a238af0800000000000000
+      internalID: -395425724076639441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongAssets_107
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 17
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966108fa4dea01210800000000000000
+      internalID: 1301732520810780265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
